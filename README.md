@@ -1,3 +1,3 @@
-**Lab 1**
+**IIPY_labs**
 
-PCI device list.
+BSUIR labs.
